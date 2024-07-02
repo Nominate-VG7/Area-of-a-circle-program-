@@ -6,5 +6,5 @@ int main()
     cout << "Enter the radius of a circle : ";
     cin >> r;
     cout << "The area of a circle is : ";
-    cout << 3.14 * r * r << endl;
+    cout << 3.14 * r * r << endl ;
 }
